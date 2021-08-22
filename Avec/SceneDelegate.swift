@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Avec
 //
-//  Created by 清水正明 on 2021/08/22.
+//  Created by 清水正明 on 2021/08/22.just do it
 //
 
 import UIKit
