@@ -1,0 +1,6 @@
+framework module Pods_Avec {
+  umbrella header "Pods-Avec-umbrella.h"
+
+  export *
+  module * { export * }
+}
